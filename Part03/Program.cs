@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Hello, World! .NET 7 , Use Top Level Statements !");
